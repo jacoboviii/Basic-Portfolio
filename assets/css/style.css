@@ -173,5 +173,6 @@ footer {
     background-color: #4aaaa5;
     color: #ffffff;
     position: absolute;
-    bottom: 10px;
+    bottom: 15px;
+    text-align: center;
 }
